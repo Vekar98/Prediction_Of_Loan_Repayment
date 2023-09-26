@@ -2,7 +2,6 @@ Welcome to my repository. Here you can find my machine learning project created 
 The project discusses an issue of repayment of leasing installments using machine learning.
 I have used random forest and logistic regression models to make predictions based on the acquired data
 
-In this repository you can find few files:
+In this repository you can find:
 
 - file with my project saved in .ipynb
-- file with my project saved in .html
